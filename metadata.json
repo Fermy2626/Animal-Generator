@@ -2,5 +2,5 @@
   "name": "Animal Generator",
   "description": "Discover a random animal with a single click in this lightweight generator.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
